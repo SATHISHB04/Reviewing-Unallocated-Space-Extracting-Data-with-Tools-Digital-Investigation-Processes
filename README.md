@@ -44,6 +44,12 @@ flowchart TD
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
 
+<img width="1911" height="1075" alt="DFDI FILE 1" src="https://github.com/user-attachments/assets/83bf5e08-655f-4d84-9ebc-d26694a43d38" />
+<img width="1702" height="902" alt="structure view 2" src="https://github.com/user-attachments/assets/2d897ce0-35fb-462d-8c1a-b760bd2f65dc" />
+<img width="1722" height="930" alt="image evidence 3" src="https://github.com/user-attachments/assets/7586b981-0c64-47de-9daf-6b703322856b" />
+<img width="1705" height="901" alt="report generation 4" src="https://github.com/user-attachments/assets/7299007b-335e-45b0-8dea-cec15c326bd7" />
+<img width="1920" height="878" alt="Final Report 5" src="https://github.com/user-attachments/assets/ab4d5c50-33ce-4c43-a5a4-1dd5f094691a" />
+
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
 
